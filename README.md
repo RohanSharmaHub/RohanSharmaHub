@@ -12,7 +12,7 @@
 </p>
 <br>
 
-  ###
+
 
 <h1 data-importer="text" align="center">Hey there 👋, I'm Rohan Sharma</h1>
 
@@ -20,7 +20,6 @@
 
 <h3 data-importer="text" align="center">This is a passionate and curious me.  I know my work well.</h3>
 
-###
 
 <br clear="both">
 
