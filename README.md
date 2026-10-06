@@ -72,12 +72,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/@incredible_study/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="30" alt="youtube logo"  />
   </a>
 </div>
 <br>
 <div align="center">
-   <h3 style="text-align: center;">I Can do this all day.</h3>
+   <h4 style="text-align: center;"> I Can do this all day 😎</h4>
 </div>
 <br>
 
