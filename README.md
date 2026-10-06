@@ -15,7 +15,7 @@
 
 
 
-<h1 data-importer="text" align="center">Hey there 👋, I'm Rohan Sharma</h1>
+<h1 data-importer="text" align="center">Hey there 👋, I'm Rohan </h1>
 
 
 
