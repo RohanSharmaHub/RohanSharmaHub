@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/api/v1?label=Profile+views&color=007ec6?username=rohansharmahub&abbreviated=true"/>
+  <img src="https://img.shields.io/api/VisitorHit?user=rohansharmahub&label=Profile+views&color=007ec6?username=rohansharmahub&abbreviated=true"/>
 </p>
 
   ###
