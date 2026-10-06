@@ -9,8 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohansharmahub&abbreviated=true"/>
-###
+  <img src="https://img.shields.io/api/v1?label=Profile+views&color=007ec6?username=rohansharmahub&abbreviated=true"/>
+</p>
+
+  ###
 
 <h1 data-importer="text" align="center">Hey there 👋, I'm Rohan Sharma</h1>
 
