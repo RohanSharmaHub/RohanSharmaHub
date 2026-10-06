@@ -1,12 +1,12 @@
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDB5YmNvcm15YzYwdDAyYXZ2Y3l0OWx6YTNncTR5NDNvYmJtcWVldyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Js7KV7VrQDYJagYooE/giphy.gif"  />
+  
 </div>
+
 <br>
-
-###
-
-![](https://visitorbadge.io)
-###
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=rohansharmahub&repo=rohansharmahub&label=visitors&labelColor=%23555555&countColor=%232579D8" alt="Visitors" />
+</p>
 
 ###
 
