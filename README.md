@@ -9,7 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/api/VisitorHit?user=rohansharmahub&label=Profile+views&color=007ec6?username=rohansharmahub&abbreviated=true"/>
+   <img
+    src="https://komarev.com/ghpvc/?username=rohansharmahub&label=Profile+views&color=007ec6&style=flat"
+    alt="Profile views"
+  />
 </p>
 
   ###
