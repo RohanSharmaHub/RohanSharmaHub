@@ -76,7 +76,9 @@
   </a>
 </div>
 <br>
-<h2 style="text-align: center;">I Can do this all day.</h2>
+<div align="center">
+   <h3 style="text-align: center;">I Can do this all day.</h3>
+</div>
 <br>
 
 ###
