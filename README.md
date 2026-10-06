@@ -28,18 +28,18 @@
 
 <p data-importer="text" align="left">- 🔭 I’m working as AI/ML Engineer.<br>- 📚 I'm currently learning AI automation, RAG System and their implementations.<br>- ⚡ In my free time I watch movies and go for walk.</p>
 
-###
+
 
 <p align="center">
 <br><br><br>👨‍💻My Portfolio: https://rohansharmahub.github.io/portfolio/
 </p>
 
-###
+
 <br>
 <br>
 <h3 data-importer="text" align="center">🛠 Language and tools</h3>
 
-###
+
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -71,12 +71,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
+
 <br>
 <br>
 <h3 data-importer="text" align="center">🔥  Let's get connected :</h3>
 
-###
+
 
 <br clear="both">
 
