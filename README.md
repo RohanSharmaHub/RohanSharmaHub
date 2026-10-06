@@ -4,9 +4,6 @@
 </div>
 
 <br>
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=rohansharmahub&repo=rohansharmahub&label=visitors&labelColor=%23555555&countColor=%232579D8" alt="Visitors" />
-</p>
 
 <p align="center">
    <img
