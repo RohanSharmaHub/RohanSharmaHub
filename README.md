@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="center">- 🔭 I’m working as AI/ML Engineer.<br><p align="center">- 📚 I'm currently learning AI automation, RAG System and their implementations.<br>- ⚡ In my free time I watch movies and go for walk.<br><br><br>👨‍💻My Portfolio: https://rohansharmahub.github.io/portfolio/</p>
+<p data-importer="text" align="center">- 🔭 I’m working as AI/ML Engineer.<br>             - 📚 I'm currently learning AI automation, RAG System and their implementations.<br>- ⚡ In my free time I watch movies and go for walk.<br><br><br>👨‍💻My Portfolio: https://rohansharmahub.github.io/portfolio/</p>
 
 ###
 <br>
