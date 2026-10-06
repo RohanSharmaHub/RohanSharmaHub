@@ -12,11 +12,11 @@
 
 ###
 
-<h3 data-importer="text" align="center">👩‍💻  About Me</h3>
+<h2 data-importer="text" align="center">👩‍💻  About Me</h2>
 
 ###
 
-<p data-importer="text" align="left">- 🔭 I’m working as AI/ML Engineer.<br>- 📚 I'm currently learning AI automation, RAG System and their implementations.<br>- ⚡ In my free time I watch movies and go for walk.</p>
+<p data-importer="text" align="left">- 🔭 I’m working as AI/ML Engineer.<br>- 📚 I'm currently learning AI automation, RAG System and their implementations.<br>- ⚡ In my free time I watch movies and go for walk.<br><br><br><br>👨‍💻My Portfolio: https://rohansharmahub.github.io/portfolio/</p>
 
 ###
 
@@ -62,14 +62,16 @@
 
 <div data-importer="socials" align="center">
   <a href="https://linkedin.com/in/rohan-sharma-8197062a2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  /><b> . </b>b>
   </a>
   <a href="https://www.youtube.com/@incredible_study/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  /><b> . </b>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-<br>
-<br>
+  <a href="rohansharma7313@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+  <br>
+  <br>
 </div>
 
 ###
