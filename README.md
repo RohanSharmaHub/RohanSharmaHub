@@ -38,7 +38,7 @@
 ###
 <br>
 <br>
-<h3 data-importer="text" align="center">🛠 Language and tools</h3>
+<h3 data-importer="text" align="center">🛠 Languages and tools</h3>
 
 ###
 
