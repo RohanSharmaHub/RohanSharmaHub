@@ -17,16 +17,17 @@
 <h2 data-importer="text" align="center">👩‍💻  About Me</h2>
 
 ###
-
+<div align="center">
 <p data-importer="text" align="left">- 🔭 I’m working as AI/ML Engineer.<br>- 📚 I'm currently learning AI automation, RAG System and their implementations.<br>- ⚡ In my free time I watch movies and go for walk.<br><br><br>👨‍💻My Portfolio: https://rohansharmahub.github.io/portfolio/</p>
+</div>
+###
+<br>
+<br>
+<h3 data-importer="text" align="center">🛠 Language and tools</h3>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
@@ -57,7 +58,8 @@
 </div>
 
 ###
-
+<br>
+<br>
 <h3 data-importer="text" align="center">🔥  Let's get connected :</h3>
 
 ###
