@@ -18,12 +18,13 @@
 
 ###
 <p data-importer="text" align="left">- 🔭 I’m working as AI/ML Engineer.<br>- 📚 I'm currently learning AI automation, RAG System and their implementations.<br>- ⚡ In my free time I watch movies and go for walk.</p>
-###
 
 ###
-<p>
+
+<p align="center">
 <br><br><br>👨‍💻My Portfolio: https://rohansharmahub.github.io/portfolio/
 </p>
+
 ###
 <br>
 <br>
