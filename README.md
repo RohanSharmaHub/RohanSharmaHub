@@ -72,6 +72,27 @@
 
 
 <br>
+
+<div data-importer="socials" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
+  <a href="https://linkedin.com/in/rohan-sharma-8197062a2" target="_blank" rel="noopener noreferrer" style="display: flex;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"/>
+  </a>
+  
+  <span style="color: grey; font-size: 14px; line-height: 1; display: flex; align-items: center;">&middot;</span>
+  
+  <a href="mailto:rohansharma7313@gmail.com" target="_blank" rel="noopener noreferrer" style="display: flex;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail logo"/>
+  </a>
+  
+  <span style="color: grey; font-size: 14px; line-height: 1; display: flex; align-items: center;">&middot;</span>
+  
+  <a href="https://www.youtube.com/@incredible_study/" target="_blank" rel="noopener noreferrer" style="display: flex;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="35" height="35" alt="youtube logo"/>
+  </a>
+</div>
+
+
+<br>
 <br>
 <div align="center">
    <h4 style="text-align: center;"> I Can do this all day 😎</h4>
