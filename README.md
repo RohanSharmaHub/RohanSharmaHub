@@ -8,15 +8,15 @@
 <p align="center">
    <img
     src="https://komarev.com/ghpvc/?username=rohansharmahub&label=Profile+views&color=007ec6&style=flat"
-    alt="Profile views"
-  />
+    alt="Profile views"/>
 </p>
+<br>
 
   ###
 
 <h1 data-importer="text" align="center">Hey there 👋, I'm Rohan Sharma</h1>
 
-###
+
 
 <h3 data-importer="text" align="center">This is a passionate and curious me.  I know my work well.</h3>
 
@@ -26,7 +26,7 @@
 
 <h2 data-importer="text" align="center">👩‍💻  About Me</h2>
 
-###
+
 <p data-importer="text" align="left">- 🔭 I’m working as AI/ML Engineer.<br>- 📚 I'm currently learning AI automation, RAG System and their implementations.<br>- ⚡ In my free time I watch movies and go for walk.</p>
 
 ###
