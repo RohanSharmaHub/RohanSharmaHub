@@ -8,6 +8,8 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=rohansharmahub&repo=rohansharmahub&label=visitors&labelColor=%23555555&countColor=%232579D8" alt="Visitors" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohansharmahub&abbreviated=true"/>
 ###
 
 <h1 data-importer="text" align="center">Hey there 👋, I'm Rohan Sharma</h1>
@@ -89,6 +91,3 @@
    <h4 style="text-align: center;"> I Can do this all day 😎</h4>
 </div>
 
-###
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
-###
