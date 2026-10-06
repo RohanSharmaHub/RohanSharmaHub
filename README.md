@@ -1,8 +1,10 @@
+<br>
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXI4d3RyMnFhemhlM2puZjV4aHFoa3F5Z2pxdDIyNnNma3h2cW53ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WnSgsxTdsjPSbMdkq7/giphy.gif" />
   
 </div>
 
+<br>
 <br>
 
 <p align="center">
